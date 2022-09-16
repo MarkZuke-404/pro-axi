@@ -247,9 +247,8 @@ def hasil(OK,cp):
 def R():
 
 			os.system("clear")
-print logo
-    print ""
-    print 39*'~'
+    print
+   logo
  
     print "\033[1;91m║--\033[1;91m> \033[1;93m1.\033[1;92m Public Cloning   \x1b[1;93m(Login)"
     print "\033[1;91m║--\033[1;91m> \033[1;9m2.\033[1;91m Random Cloning  \x1b[1;92m(No Login)"
@@ -257,9 +256,9 @@ print logo
     print "\033[1;94m║--\033[1;91m> \033[1;93m4.\033[1;91m Check Subscription "
     print "\033[1;94m║--\033[1;91m> \033[1;93m5.\033[1;92m Update Tools"
     print "\033[1;94m║--\033[1;91m> \033[1;93m6.\033[1;93m For Any Help Massage WhatsApp"
-    print 43*'~'
+    print
     print "\x1b[1;92m[*] \x1b[1;91m For Need Any Help Type 7 And Massage Me On \x1b[1;92mWhatsApp "
-    print 43*'~'
+    '
     main_input()
 def main_input():
     mx=raw_input('\x1b[1;92m[!] Select : ')
