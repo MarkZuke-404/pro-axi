@@ -247,9 +247,10 @@ def hasil(OK,cp):
 def R():
 
 			os.system("clear")
-
+print logo
+    print ""
+    print 39*'~'
  
-
     print "\033[1;91m║--\033[1;91m> \033[1;93m1.\033[1;92m Public Cloning   \x1b[1;93m(Login)"
     print "\033[1;91m║--\033[1;91m> \033[1;9m2.\033[1;91m Random Cloning  \x1b[1;92m(No Login)"
     print "\033[1;94m║--\033[1;91m> \033[1;93m3.\033[1;93m File Making Menu\x1b[1;92m    (Login)"
